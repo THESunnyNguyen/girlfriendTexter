@@ -50,3 +50,9 @@ This script is an automated chatbot designed to roleplay as "Sunny" in iMessage 
 ## License
 This project is for personal use only. Modify and distribute at your own discretion.
 
+## Examples
+
+<img width="850" alt="Screenshot 2025-03-07 at 6 11 22 AM" src="https://github.com/user-attachments/assets/97580f6b-d157-4247-861a-bcc2e78dc049" />
+
+<img width="1037" alt="Screenshot 2025-03-07 at 6 11 40 AM" src="https://github.com/user-attachments/assets/c13510c1-0815-4f1d-96e6-6a07ab5aaaf6" />
+
