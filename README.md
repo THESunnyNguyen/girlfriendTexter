@@ -4,7 +4,7 @@
 
 #Sunny Chatbot - iMessage Auto-Responder
 
-##Overview
+##Overview##
 
 This script is an automated chatbot designed to roleplay as "Sunny" in iMessage conversations. It continuously monitors messages from a specific contact and generates AI-driven responses in a personalized style. The chatbot ensures that it only responds to messages it receives and avoids replying to its own messages.
 
